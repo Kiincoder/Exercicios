@@ -1,0 +1,2 @@
+Sistemas De Informacao;225;40;20;20
+Administracao;231;40;10;30
